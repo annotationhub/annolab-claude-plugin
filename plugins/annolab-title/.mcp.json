@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "annolab": {
+      "type": "http",
+      "url": "https://api.annolab.ai/mcp",
+      "headers": {
+        "Authorization": "Api-Key ${ANNOLAB_CREDENTIALS}"
+      }
+    }
+  }
+}

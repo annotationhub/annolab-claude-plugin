@@ -1,0 +1,19 @@
+{
+  "name": "annolab-title",
+  "version": "0.6.1",
+  "description": "Land and mineral title production with AnnoLab: the annolab MCP server for abstracts, readiness and county records, SDK document uploads, legal description parsing for Oklahoma and Texas, and regulatory data (wells, completions, spacing and pooling orders) from external providers.",
+  "author": {
+    "name": "AnnoLab"
+  },
+  "homepage": "https://docs.annolab.ai/",
+  "license": "UNLICENSED",
+  "keywords": [
+    "title",
+    "land",
+    "minerals",
+    "abstract",
+    "legal-description",
+    "intake",
+    "annolab"
+  ]
+}

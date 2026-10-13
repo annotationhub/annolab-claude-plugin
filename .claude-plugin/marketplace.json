@@ -1,0 +1,15 @@
+{
+  "name": "annolab",
+  "description": "AnnoLab plugins for land and mineral title production.",
+  "owner": {
+    "name": "AnnoLab",
+    "url": "https://annolab.ai"
+  },
+  "plugins": [
+    {
+      "name": "annolab-title",
+      "source": "./plugins/annolab-title",
+      "description": "Land and mineral title production with AnnoLab: the annolab MCP server for abstracts, readiness and county records, SDK document uploads, and legal description parsing for Oklahoma and Texas."
+    }
+  ]
+}

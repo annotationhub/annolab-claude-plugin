@@ -1,0 +1,6 @@
+.DS_Store
+*.plugin
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
