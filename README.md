@@ -47,12 +47,14 @@ The version deliberately lives **only** in `plugin.json`, not in the marketplace
 
 ## How customers install
 
-**Cowork** — Customize → Plugins → **Add marketplace**, then the repository URL. Install `annolab-title` from the catalog that appears.
+The marketplace is hosted at <https://github.com/annotationhub/annolab-claude-plugin>.
+
+**Cowork** — Customize → Plugins → **Add marketplace**, then enter `https://github.com/annotationhub/annolab-claude-plugin`. Install `annolab-title` from the catalog that appears.
 
 **Claude Code**
 
 ```
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add annotationhub/annolab-claude-plugin
 /plugin install annolab-title@annolab
 ```
 
